@@ -1,1 +1,1 @@
-adds execute permission to all subdirectories of the current directory, the owner, the group owner and the other users
+creates a directory my-dir with permissions 751 in the working directory
