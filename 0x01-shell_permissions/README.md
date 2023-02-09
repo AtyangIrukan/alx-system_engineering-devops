@@ -1,1 +1,1 @@
-changes the group owner to school for the file hello
+changes the owner to vincent and the group to staff
