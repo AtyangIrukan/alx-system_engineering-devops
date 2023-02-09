@@ -1,1 +1,1 @@
-changes the owner to vincent and the group to staff
+play the StarWars IV episode in terminal
