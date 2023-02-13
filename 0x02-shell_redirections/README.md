@@ -1,1 +1,1 @@
-displays a confused smile
+display a confused smile
