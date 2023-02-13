@@ -1,1 +1,1 @@
-counts the number of directories
+counts the number of directorie and sub-directories
