@@ -1,1 +1,1 @@
-prints hello world
+displays a confused smile
